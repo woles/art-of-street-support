@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/art-of-street-support/precache-manifest.c3d968c013c0b37c29318a1f66dd750a.js"
+  "/art-of-street-support/precache-manifest.496f9b77cd7190ff75b708ded654446b.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/art-of-street-support/static/css/main.f9c67ae1.chunk.css",
-    "main.js": "/art-of-street-support/static/js/main.536a3ed2.chunk.js",
-    "main.js.map": "/art-of-street-support/static/js/main.536a3ed2.chunk.js.map",
+    "main.css": "/art-of-street-support/static/css/main.8a693784.chunk.css",
+    "main.js": "/art-of-street-support/static/js/main.9c8199d7.chunk.js",
+    "main.js.map": "/art-of-street-support/static/js/main.9c8199d7.chunk.js.map",
     "runtime~main.js": "/art-of-street-support/static/js/runtime~main.d8ee0a07.js",
     "runtime~main.js.map": "/art-of-street-support/static/js/runtime~main.d8ee0a07.js.map",
     "static/js/2.b41502e9.chunk.js": "/art-of-street-support/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/art-of-street-support/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/art-of-street-support/index.html",
-    "precache-manifest.c3d968c013c0b37c29318a1f66dd750a.js": "/art-of-street-support/precache-manifest.c3d968c013c0b37c29318a1f66dd750a.js",
+    "precache-manifest.496f9b77cd7190ff75b708ded654446b.js": "/art-of-street-support/precache-manifest.496f9b77cd7190ff75b708ded654446b.js",
     "service-worker.js": "/art-of-street-support/service-worker.js",
-    "static/css/main.f9c67ae1.chunk.css.map": "/art-of-street-support/static/css/main.f9c67ae1.chunk.css.map",
-    "static/media/logo.svg": "/art-of-street-support/static/media/logo.5d5d9eef.svg"
+    "static/css/main.8a693784.chunk.css.map": "/art-of-street-support/static/css/main.8a693784.chunk.css.map",
+    "static/media/andoid-512.png": "/art-of-street-support/static/media/andoid-512.4efc7bf3.png"
   }
 }
